@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mapty README</title>
 </head>
 <body>
 
@@ -19,7 +18,7 @@
 <h2>Features 🚀</h2>
 
 <ul>
-    <li><strong>Workout Logging:</strong> Log different types of workouts including running, cycling, and hiking.</li>
+    <li><strong>Workout Logging:</strong> Log different types of workouts.</li>
     <li><strong>Data Persistence:</strong> Utilizes the LocalStorage API to save workout logs locally in the user's browser.</li>
     <li><strong>User-Friendly Interface:</strong> Intuitive interface for adding new workouts and viewing workout history.</li>
     <li><strong>Interactive Map:</strong> Displays workout locations on an interactive map with markers.</li>
@@ -40,7 +39,7 @@
 <ol>
     <li><strong>Add a New Workout:</strong>
         <ul>
-            <li>Click on the "Add Workout" button.</li>
+            <li>Click on the "click on the map where to Workout" button.</li>
             <li>Select the type of workout.</li>
             <li>Fill in the details.</li>
             <li>Click "Save" to add the workout to the log.</li>
